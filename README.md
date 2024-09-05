@@ -10,7 +10,7 @@
 #  👋
 
 <br>
-I'm a javascript developer from Poland
+I'm a learning developer from Poland
  
 
 <br>
