@@ -18,6 +18,8 @@
   <img width="12" />
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/js_discord/js_discord-icon.svg" height="30" alt="discord.js logo"  />
+  <img width="12" />
 </div>
 
 
